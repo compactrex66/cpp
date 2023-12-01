@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1700207582 source:c:\users\kmirecki\desktop\zadanie2\main.cpp
-	<iostream>
-	<time.h>
-	<stdlib.h>
-	<math.h>
-	<fstream>
-
