@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702022299 source:c:\users\kmirecki\desktop\folder\8.12.23\selectionsort\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
