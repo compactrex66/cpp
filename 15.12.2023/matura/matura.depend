@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702623621 source:c:\users\uczen\desktop\15.12.2023\matura\main.cpp
+	<iostream>
+	<fstream>
+
